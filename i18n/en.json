@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cynnar"
+        ]
+    },
+    "diceRoller": "Dice Roller",
+    "diceRoller-desc": "Dice roller for various table top games and more.",
+    "special-diceRoller-title": "Dice Roller",
+    "special-diceRoller-intro": "Change the dice settings here."
+}

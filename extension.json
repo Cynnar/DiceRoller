@@ -1,0 +1,23 @@
+{
+    "name": "DiceRoller",
+    "author": "Cynnar",
+    "url": "https://github.com/Cynnar/DiceRoller.git",
+    "license-name": "MIT",
+    "version": "0.0.1",
+    "namemsg": "diceRoller",
+    "descriptionmsg": "diceRoller-desc",
+    "manifest_version": 1,
+    "MessagesDirs": {
+        "DiceRoller": [ "i18n" ]
+    },
+    "AutoloadClasses": {
+        "SpecialDiceRoller": "specials/SpecialDiceRoller.php"
+    },
+    "SpecialPages": {
+        "DiceRoller": "SpecialDiceRoller"
+    },
+    "ExtensionMessagesFiles": {
+        "DiceRollerAlias": "DiceRoller.alias.php"
+    },
+    "type": "other"
+}

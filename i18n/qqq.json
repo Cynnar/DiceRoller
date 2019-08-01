@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cynnar"
+        ]
+    },
+    "diceRoller": "The name of the extension",
+    "diceRoller-desc": "{{desc|name=DiceRoller|url=https://github.com/Cynnar/DiceRoller.git}}",
+    "special-diceRoller-title": "Title of the special page Special:DiceRoller",
+    "special-diceRoller-intro": "Description appearing on top of <tvar|1>Special:{{ll|DiceRoller}}</>."
+}
